@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/xupeiru2000/peiru.github.io.git'
+    url: 'https://github.com/xupeiru2000/xupeiru2000.github.io.git'
     content_dir: content
     branch: master
   avatar:
