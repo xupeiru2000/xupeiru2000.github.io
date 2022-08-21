@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Research Projects
 subtitle: ''
 
 content:
@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Interpretable Machine Learning
+      tag: Interpretable Machine Learning
+    - name: Reinforcement Learning
+      tag: Reinforcement Learning
     - name: Other
       tag: Demo
 
