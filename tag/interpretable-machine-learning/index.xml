@@ -5,7 +5,7 @@
     <link>https://xupeiru2000.github.io/tag/interpretable-machine-learning/</link>
       <atom:link href="https://xupeiru2000.github.io/tag/interpretable-machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Interpretable Machine Learning</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 21 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://xupeiru2000.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Interpretable Machine Learning</title>
@@ -13,19 +13,12 @@
     </image>
     
     <item>
-      <title>Generic Model Distillation - Statistical Stability in Bayesian and Tree Model</title>
+      <title>A Generic Approach for Statistical Stability in Model Distillation</title>
       <link>https://xupeiru2000.github.io/project/index1/</link>
-      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://xupeiru2000.github.io/project/index1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Directed Evolution for Protein Sequence Optimization</title>
-      <link>https://xupeiru2000.github.io/project/index2/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://xupeiru2000.github.io/project/index2/</guid>
-      <description></description>
+      <description>&lt;p&gt;Model distillation has been a popular method for producing interpretable machine learning, where an interpretable student model is produced to mimic the predictions made by the black box teacher model. However, the interpretation of a student model is sensitive to the variability of the datasets, and existing strategy for statistical stability focuses on specific models. Therefore, we developed a generic approach for stable model distillation based on central limit theorem. We construct a multiple testing framework to select a corpus size such that the consistent student model would be selected under different pseudo sample. We demonstrate the application of our proposed approach on decision trees, falling rule lists and symbolic regression, and we provide theoretical analysis with Markov process.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -34,6 +34,15 @@
     
     <item>
       <title>A Generic Approach for Statistical Stability in Model Distillation</title>
+      <link>https://xupeiru2000.github.io/project/index1/</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://xupeiru2000.github.io/project/index1/</guid>
+      <description>&lt;p&gt;Model distillation has been a popular method for producing interpretable machine learning, where an interpretable student model is produced to mimic the predictions made by the black box teacher model. However, the interpretation of a student model is sensitive to the variability of the datasets, and existing strategy for statistical stability focuses on specific models. Therefore, we developed a generic approach for stable model distillation based on central limit theorem. We construct a multiple testing framework to select a corpus size such that the consistent student model would be selected under different pseudo sample. We demonstrate the application of our proposed approach on decision trees, falling rule lists and symbolic regression, and we provide theoretical analysis with Markov process.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Generic Approach for Statistical Stability in Model Distillation</title>
       <link>https://xupeiru2000.github.io/publication/index2/</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://xupeiru2000.github.io/publication/index2/</guid>
@@ -41,19 +50,12 @@
     </item>
     
     <item>
-      <title>Generic Model Distillation - Statistical Stability in Bayesian and Tree Model</title>
-      <link>https://xupeiru2000.github.io/project/index1/</link>
-      <pubDate>Sun, 21 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://xupeiru2000.github.io/project/index1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Neural Directed Evolution for Protein Sequence Optimization</title>
       <link>https://xupeiru2000.github.io/project/index2/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://xupeiru2000.github.io/project/index2/</guid>
-      <description></description>
+      <description>&lt;p&gt;We propose a Monte Carlo Tree Search-based Directed Evolution framework for sequence optimization which utilizes upper-confidence bound (UCB) algorithm that effectively search for closely related protein mutants with high fitness values and relatively low mutation counts. We formalized a bandit model for Directed Evolution as an initial population evolves via uniform mutation and directed recombination of parent sequences. In replacement of real-world wet-lab experiments and measurements, we simulate the ground-truth protein fitness landscape with a pre-trained black-box model and use TAPE embedding inputs to simulate and train the black-box oracle model. We evaluate the proposed MCTS-based DE on benchmark protein sequence datasets including GB1, AAV, and WW domain, and our proposed algorithm achieves substantial improvement over baseline algorithms including AdaLead, DyNA PPO and PEX.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -65,11 +67,11 @@
     </item>
     
     <item>
-      <title>Automaton Distillation for Non-Markovian Knowledge Transfer in Reinforcement Learning</title>
+      <title>Automaton Distillation for Non-Markovian Knowledge Transfer in Deep RL</title>
       <link>https://xupeiru2000.github.io/project/index/</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://xupeiru2000.github.io/project/index/</guid>
-      <description>&lt;p&gt;Existing methods in knowledge transfer as policy distillation suffer from two weaknesses. First, the teacher and student must share the same state space; second, they rely on the Markovian assumptions. We proposed automaton distillation mitigate both issues. We introduce a new and effective method of non-Markovian knowledge transfer that distills knowledge from teacher automaton to student DQN, and experimented on a blind-craftsman environment to display high efficiency and better performance of our proposed automation distillation method.&lt;/p&gt;
+      <description>&lt;p&gt;Existing methods in knowledge transfer for reinforcement learning as policy distillation suffer from two weaknesses. First, the learned policies exhibit poor generalization on tasks outside the training distribution; second, existing methods usually rely on the Markovian assumptions to reach good performance. To mitigate these issues, we propose automaton distillation for non-Markovian knowledge transfer. Our proposed algorithm first trains a teacher agent using standard Deep Q-Learning and then distills teacher Q-value estimates into student model learned in the target environment. We experimented on various grid-world environments and demonstrated better performance and faster convergence compared to existing baseline methods.&lt;/p&gt;
 </description>
     </item>
     
