@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Peiru Xu</title>
+    <link>https://xupeiru2000.github.io/tag/other/</link>
+      <atom:link href="https://xupeiru2000.github.io/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://xupeiru2000.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Other</title>
+      <link>https://xupeiru2000.github.io/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>Designing School Assignment Policy for San Francisco Unified School District</title>
+      <link>https://xupeiru2000.github.io/project/index1/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://xupeiru2000.github.io/project/index1/</guid>
+      <description>&lt;p&gt;Many public school districts in US draw neighborhood school boundaries that assign students to schools based on their location proximity. Such boundaries have been criticized for creating homogeneous communities, limiting diversity, and reinforcing socioeconomic disparities. In this project we aim to design new policies for improved diversity and less segregation in San Francisco Unifies School District (SFUSD) by conducting simulations of student assignments using predictive choice models and various zone-based policies with different constraints. We created innovative new zone boundaries that prioritizes equity and diversity which largely improves socioeconomic imbalance and segregation in current SFUSD policy. Our solution is expected to be implemented in SFUSD for 2026-27 school year impacting 3,000 – 5,000 students annually.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
