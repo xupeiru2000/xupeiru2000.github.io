@@ -6,25 +6,29 @@ title: Peiru Xu
 superuser: true
 
 # Role/position/tagline
-role: Class of 2023, Applied Math \& Philosophy Major
+role: Master of Science, Computational Math and Engineering
+#Class of 2023, Applied Math \& Philosophy Major
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Berkeley
-    url: https://www.berkeley.edu
+  - name: Stanford University, ICME
+    url: https://www.icme.stanford.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Stanford ICME DS Master, UC Berkeley 23' Applied Math undergraduate, research interests in machine learning and reinforcement learning
 
 # Interests to show in About widget
 interests:
   - Interpretable Machine Learning
   - Reinforcement Learning
-  - Neural Bandits and Protein Design
+  - Causal Machine Learning
 
 # Education to show in About widget
 education:
   courses:
+    - course: MS in Computational Math and Engineering
+      institution: Stanford University
+      year: 2023 - 2025
     - course: BSc in Applied Mathematics
       institution: University of California, Berkeley
       year: 2019 - 2023
@@ -40,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:peiruxu@stanford.edu
 #  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
 #    icon_pack: fas
 #    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -56,7 +60,10 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/CV_new.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/CV_new.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -65,10 +72,9 @@ email: ''
 highlight_name: true
 ---
 
-Peiru Xu is a 4th year undergraduate student at UC Berkeley. Her major is Applied Mathematics with a concentration in computer science. Her skill set includes Python, SQL, R, Matlab, Tableau, with advanced knowledge and experience in machine learning and data analysis. 
+Peiru Jenny Xu is a second year master student at Stanford ICME. Her master program focuses on computational math and engineering, with a concentration in data science and machine learning.
 
-Peiru's internship experiences include machine learning intern at Abio-X to build novel reinforcement learning models for optimal protein design. She has also interned as data scientist at Deloitte Financial Advisory and conducted financial analysis and fraud detection for clients using data analysis. She has accomplished several projects in various fields including reinforcement learning, machine learning and statistical analysis, and her current research projects focus on interpretable ML model and protein sequence optimization.
+Peiru's previous internship experience includes data science intern at Apple, where she implemented deep learning-based algorithm for image clustering and developed code base to detect newly emerging image pattern clusters based on image similarity. She also interned at American Express during the past summer as a data scientist, where she explored offer personalization strategy for prospect customers using casual machine learning models. She has accomplished several research projects in various fields including reinforcement learning, machine learning and statistical analysis. Her skill set includes Python, SQL, R, Matlab, Tableau, with advanced knowledge and experience in machine learning and data analysis.
+ 
 
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
